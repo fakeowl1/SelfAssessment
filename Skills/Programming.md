@@ -1,72 +1,72 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model u
-  - Modeling u
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
   - Subject domain
-  - Algorithm u
-  - Syntax u
-  - Semantics u
-  - Abstraction u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
+  - Abstraction: 🖐️ used
   - Paradigm
-  - Programm u
+  - Programm: 🖐️ used
   - Programming paradigm
-  - Programming language u
+  - Programming language: 🖐️ used
   - Contract
-  - Module u
-  - Library u
-  - Package u
-  - Component h
-  - Framework h
-  - Platform h
-  - Source code u
-  - Object code h
-  - Machine code h
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 🖐️ used
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
   - Software engineering
-  - Decomposition u
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
-  - Code reuse u
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY) u
-  - KISS principle u
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal u
-  - Expression u
-  - Heap h
-  - Function u
-  - Procedure u
-  - Method u
-  - Class u
-  - Prototype u
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 👂 heard
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block h
-  - Conditions u
-  - Loops u
-  - Assignment u
+  - Code block: 👂 heard
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions u
-  - Coding conventions u
-  - Camel case u
-  - Snake case u
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
   - Trailing commas
-  - Return early u
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types u
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature u
-  - Argument u
-  - Parameter u
-  - Pure function h
-  - Lambda expression u
-  - Side effects h
-  - Closure u
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 👂 heard
+  - Lambda expression: 🖐️ used
+  - Side effects: 👂 heard
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion u
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback h
+  - Callback: 👂 heard
   - Listener
-  - Composition u
-  - Pipe u
+  - Composition: 🖐️ used
+  - Pipe: 🖐️ used
   - Memoize
   - Wrapper
   - Functor
@@ -105,24 +105,24 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
   - Object
   - Collection
-  - Set u
+  - Set: 🖐️ used
   - Hash table
-  - Linked list h
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree h
-  - Graph h
+  - Tree: 👂 heard
+  - Graph: 👂 heard
   - Iterator
   - Mutable state
   - Immutable state
@@ -142,47 +142,47 @@
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter u
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime u
+  - Runtime: 🖐️ used
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger u
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git u
-  - Github u
-  - Docker u
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers u
+  - Magic numbers: 🖐️ used
   - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti u
+  - Spaghetti: 🖐️ used
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code u
+  - Unreachable code: 🖐️ used
   - Duplicate code
   - Premature optimization
   - Micro-optimization
@@ -190,7 +190,7 @@
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters h
+  - Too many parameters: 👂 heard
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
@@ -214,7 +214,7 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux u
+  - Linux: 🖐️ used
   - Unix
   - BSD
   - MacOS
@@ -228,7 +228,7 @@
   - IETF
   - IANA
   - IEEE
-  - Base64 u
+  - Base64: 🖐️ used
   - ECMA
   - ICANN
   - ISO

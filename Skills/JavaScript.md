@@ -1,55 +1,55 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` u
-  - `String` u
-  - `Symbol` h
-  - `Infinity` u
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 👂 heard
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
-  - `...spread` u
-  - `...rest` u
-  - `typeof` u
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
-  - Iterators h
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
-  - Chaining u
+  - Chaining: 🖐️ used
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters u
-  - `__proto__` u
-  - `prototype` u
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
-  - Bitwise operators u
-  - Ternary operator u
+  - Getters and setters: 🖐️ used
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
-  - `await` h
+  - `await`: 👂 heard
   - Template literal
   - Strict mode
-  - Hoisting h
-  - `delete` u
-  - `in` u
+  - Hoisting: 👂 heard
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`
-  - `eval` h
-  - `static` u
-  - `Number.parseInt` u
-  - `Number.parseFloat` u
+  - `eval`: 👂 heard
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -57,42 +57,42 @@
   - Instance class fields
   - Static class fields
   - Private class fields
-  - Private class methods u
+  - Private class methods: 🖐️ used
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` u
-  - `break` u
-  - `continue` u
-  - `import` h
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 👂 heard
   - `export`
   - `label`
-  - `try..catch` u
-  - `switch` u
-  - `class` u
-  - `extends` u
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
   - `with`
-  - `new` u
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function u
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
-  - Functional object u
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🖐️ used
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
-  - `Map` u
-  - `Set` h
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` u
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` u
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console` u
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js u
-  - npm u
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier
-  - MDN u
+  - MDN: 🖐️ used
   - TC39
