@@ -1,72 +1,72 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model u
+  - Modeling u
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Algorithm u
+  - Syntax u
+  - Semantics u
+  - Abstraction u
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Module u
+  - Library u
+  - Package u
+  - Component h
+  - Framework h
+  - Platform h
+  - Source code u
+  - Object code h
+  - Machine code h
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition u
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse u
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Literal u
+  - Expression u
+  - Heap h
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block h
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early u
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types u
   - Reference types
   - Type systems
   - Strong typing
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function h
+  - Lambda expression u
+  - Side effects h
+  - Closure u
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
-  - Composition
-  - Pipe
+  - Composition u
+  - Pipe u
   - Memoize
   - Wrapper
   - Functor
@@ -105,24 +105,24 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
   - Object
   - Collection
-  - Set
+  - Set u
   - Hash table
-  - Linked list
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree
-  - Graph
+  - Tree h
+  - Graph h
   - Iterator
   - Mutable state
   - Immutable state
@@ -142,47 +142,47 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime u
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git u
+  - Github u
+  - Docker u
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers u
   - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti u
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
+  - Unreachable code u
   - Duplicate code
   - Premature optimization
   - Micro-optimization
@@ -190,7 +190,7 @@
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters h
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
@@ -214,7 +214,7 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux u
   - Unix
   - BSD
   - MacOS
@@ -222,13 +222,13 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII y
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 u
   - ECMA
   - ICANN
   - ISO
